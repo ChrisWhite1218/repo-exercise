@@ -1,3 +1,7 @@
 # repo-exercise
 Exercise 1
-Logan Warren
+Group Names:
+  Logan Warren
+  Chris White
+  Alex Viarobulos
+  
