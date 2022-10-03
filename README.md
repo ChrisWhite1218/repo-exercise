@@ -7,9 +7,3 @@ Logan Warren
 Chris White
 Alex Viaropulos
 =======
-Group Names:
-  Logan Warren
-  Chris White
-  Alex Viarobulos
-  
->>>>>>> 9bd19836b2f7571fc1b0cfc49bb5667873f1df3b
